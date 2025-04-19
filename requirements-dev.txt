@@ -1,0 +1,5 @@
+# Used with building .exe or .app files
+pyinstaller==6.13.0
+pyinstaller-hooks-contrib==2025.2
+altgraph==0.17.4
+packaging==24.2

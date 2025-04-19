@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Pomodoro-Timer"
+version = "2.0.0"
+description = "A GUI-based Pomodoro Timer with sounds and progress tracking."
+authors = [
+    { name="Michał Nowakowski", email="michal.nowakowski@tuta.io" }
+]
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = "==3.11.8"
+dependencies = [
+    "pygame==2.6.1"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Vokinov/Pomodoro-Timer_2"
+"Video Demo" = "https://www.youtube.com/watch?v=E0uw6VHA5fI"
+
+classifiers = [
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3.11",
+  "Operating System :: OS Independent",
+]

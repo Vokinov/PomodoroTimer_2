@@ -1,0 +1,22 @@
+# Python virtual environments
+pomodoro-env/
+
+# Testing directory
+tests/
+
+# Build/deployment artifacts
+linuxdeploy-x86_64.AppImage
+icon.png
+
+# __pycache__ and .pyc files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editor/IDE configs
+.vscode/
+.idea/
