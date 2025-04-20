@@ -8,6 +8,9 @@ tests/
 linuxdeploy-x86_64.AppImage
 icon.png
 
+# AppImage built
+appimage/
+
 # __pycache__ and .pyc files
 __pycache__/
 *.py[cod]

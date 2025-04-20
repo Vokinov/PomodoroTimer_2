@@ -19,7 +19,7 @@ sounds_dir = assets_dir / "sounds"
 #Font definition
 font="Arial"
 font_color = '#12FF15'
-background_img = images_dir / "bkground.png"
+background_img = images_dir / "background.png"
 background_color = 'black'
 counter_seconds = 1500  # Starting time setting of timer().
 work_passed = 0  # Counts seconds of work time passed.
