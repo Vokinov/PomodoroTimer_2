@@ -1,0 +1,17 @@
+# Prioritize Python files for language detection
+*.py linguist-detectable=true
+
+# Ignore non-code assets to avoid skewed language stats
+assets/** linguist-vendored
+
+# Also ignore spec build files and binary-related outputs
+*.spec linguist-generated
+build/** linguist-generated
+dist/** linguist-generated
+appimage/** linguist-generated
+
+# Optional: ignore binary/audio/image file types
+*.mp3 linguist-generated
+*.png linguist-generated
+*.ico linguist-generated
+
