@@ -72,3 +72,11 @@ The Pomodoro Timer was built with extensibility in mind. Here are some potential
 ### 🧠 Final Thoughts
 
 This is more than a timer — it's a step toward building smarter productivity tools. Feel free to fork, contribute, or just use it to power through your tasks!
+
+---
+
+### 🚀 Downloads
+
+- [Windows (.exe)](https://github.com/Vokinov/PomodoroTimer_2/releases/download/v2.0.0/PomodoroTimer.exe)
+- [Linux (.AppImage)](https://github.com/Vokinov/PomodoroTimer_2/releases/download/v2.0.0/PomodoroTimer.AppImage)
+

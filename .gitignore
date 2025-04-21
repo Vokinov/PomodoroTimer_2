@@ -11,6 +11,12 @@ icon.png
 # AppImage built
 appimage/
 
+# Windows .exe built
+dist/
+
+# PyInstaller
+*.spec
+
 # __pycache__ and .pyc files
 __pycache__/
 *.py[cod]
